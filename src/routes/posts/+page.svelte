@@ -6,9 +6,9 @@
 
 <hr />
 
-<p>My ramblings and thoughts on various topics.</p>
+<p>My thoughts and experiences on programming and development.</p>
 
 <ul>
-  <li><a href="/posts/post1">Post Title 1</a> - December 2025</li>
-  <!-- Add more posts -->
+  <li><a href="/posts/journey-in-cp">Journey in Competitive Programming</a> - April 2026</li>
+  <li><a href="/posts/building-with-svelte-kotlin">Building Projects with Svelte and Kotlin</a> - April 2026</li>
 </ul>

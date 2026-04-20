@@ -7,13 +7,13 @@
 <hr />
 
 <p>
-  Detailed bio goes here. Expand on your background, education, interests, etc.
+  Hello, I'm Nitesh Patel. I am an enthusiastic software engineer with a strong background in competitive programming and system development.
 </p>
 
-<p>For example:</p>
 <p>
-  I am a [profession/student] passionate about [topics]. Currently [what you're
-  doing].
+  I enjoy building practical applications and participating in coding challenges to continuously improve my problem-solving skills.
 </p>
 
-<!-- Add more paragraphs, lists, etc. -->
+<p>
+  My technical stack includes <strong>C++, Kotlin, Svelte, SQLite, and PostgreSQL</strong>. Over the years, I have actively participated in competitive programming, having solved over 200 problems on Codeforces and numerous easy-level problems on LeetCode to build a solid foundation in data structures and algorithms.
+</p>
