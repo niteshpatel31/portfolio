@@ -14,7 +14,7 @@
   <li>
     Semester Year:
     <ul>
-      <li>Course Name: <a href="link-to-notes.pdf">Notes</a></li>
+      <li>Course Name: <a href="#">Notes</a></li>
       <!-- Add your items -->
     </ul>
   </li>
