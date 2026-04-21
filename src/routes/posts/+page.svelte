@@ -1,5 +1,4 @@
 <script lang="ts">
-  export const prerender = true;
 </script>
 
 <h1>Posts</h1>

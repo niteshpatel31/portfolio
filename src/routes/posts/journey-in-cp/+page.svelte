@@ -1,5 +1,4 @@
 <script lang="ts">
-  export const prerender = true;
 </script>
 
 <h1>Journey in Competitive Programming</h1>

@@ -1,5 +1,4 @@
 <script lang="ts">
-  export const prerender = true;
 </script>
 
 <h1>Building Projects with Svelte and Kotlin</h1>
